@@ -8,5 +8,5 @@ Some of the funnier creations from my own messages include:
 - Hurry we can get the goat cheese burger. Going to invade russia
 - Resolved: Justice requires an hour
 
-Obviously this repository does not contain the text file with all of my texts. If you want to see it work, add your own texts.
+Obviously this repository does not contain the text file with all of my texts. If you want to see it work, add your own texts. See Jupyter notebook in "db stuff" folder.
 
